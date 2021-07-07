@@ -1,0 +1,18 @@
+{
+  "name": "test-umi",
+  "version": "1.0.0",
+  "bin": {
+    "test-umi": "index.js"
+  },
+  "description": "Management User by CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "umiaty",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.6.0"
+  },
+  "keywords": []
+}
